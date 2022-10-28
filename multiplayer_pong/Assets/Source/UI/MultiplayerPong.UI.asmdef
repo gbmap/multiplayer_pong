@@ -1,0 +1,20 @@
+{
+    "name": "MultiplayerPong.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:578ac4c39aed2844d816f0901226d063",
+        "GUID:185ec386c7e602d4d8d38788688ca419",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8cd1d7a2fefc849a8a7618c0e950d050"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
